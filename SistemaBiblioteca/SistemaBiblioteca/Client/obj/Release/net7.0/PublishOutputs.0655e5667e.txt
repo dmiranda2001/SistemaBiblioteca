@@ -1,0 +1,1 @@
+C:\Users\Diego Miranda\Desktop\FINAL VISUAL II\100_SistemaBibliotecaBlazorNet7-main\SistemaBiblioteca\SistemaBiblioteca\Client\bin\Release\net7.0\publish\web.config
